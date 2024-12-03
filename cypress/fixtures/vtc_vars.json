@@ -1,0 +1,159 @@
+{
+  "tasksURL": "https://tasks--reto-rectnico-qa--gl72z942pjcn.code.run/",
+  "tasks" : {
+    "datosCorrectos": {   
+        "titulo" : "Las palomas en el parque son muy violentas",
+        "descripcion" : "Las alimentan con semillas y redbull",
+        "fecha" : "9999-01-01",
+        "ubicacion" : "Av. El Parque #999",
+        "responsable" : "Policia Federal"
+      },
+    "tareaDuplicada": {   
+        "titulo" : "Las palomas en el parque son muy violentas",
+        "descripcion" : "Las alimentan con semillas y redbull",
+        "fecha" : "9999-01-01",
+        "ubicacion" : "Av. El Parque #999",
+        "responsable" : "Policia Federal"
+      },
+    "tituloFaltante" : {
+      "titulo": "",
+      "descripcion": "El gato se niega a contribuir con las tareas del hogar. Se espera negociar con atún.",
+      "fecha": "2024-12-05",
+      "ubicacion": "Calle Felina #7, Zona Ronroneos",
+      "responsable": "Comité de Mediación Interespecies"
+    },
+    "descripcionFaltante": {
+      "titulo": "Reparar la grieta del espacio-tiempo en la sala",
+      "descripcion": "",
+      "fecha": "2024-12-15",
+      "ubicacion": "Casa #42, Multiverso C",
+      "responsable": "Ingeniero Cuántico Pérez"
+    },
+    "fechaFaltante":{
+      "titulo": "Evitar que las tostadoras se rebelen",
+      "descripcion": "Se ha detectado actividad sospechosa entre los electrodomésticos. Las tostadoras lideran.",
+      "fecha": "",
+      "ubicacion": "Cocina Principal, Edificio SmartHome",
+      "responsable": "Inspector de Inteligencia Artificial"
+    },
+    "ubicacionFaltante":{
+      "titulo": "Investigar por qué los patos nos espían",
+      "descripcion": "Han sido vistos con binoculares en la plaza. Podrían ser agentes secretos.",
+      "fecha": "2024-12-25",
+      "ubicacion": "",
+      "responsable": "Detective Encubierto"
+    },
+    "responsableFaltante" : {
+      "titulo": "Investigar por qué los patos nos espían",
+      "descripcion": "Han sido vistos con binoculares en la plaza. Podrían ser agentes secretos.",
+      "fecha": "2024-12-25",
+      "ubicacion": "Plaza Central",
+      "responsable": ""
+    },
+    "caracteresEspeciales":{
+      "titulo": "!@#$%^&*()",
+      "descripcion": "!@#$%^&*()",
+      "fecha": "2024-12-25",
+      "ubicacion": "!@#$%^&*()",
+      "responsable": "!@#$%^&*()"
+    },
+    "soloNumeros":{
+      "titulo": "123456789",
+      "descripcion": "1234567890",
+      "fecha": "2024-12-25",
+      "ubicacion": "123456789",
+      "responsable": "234567890"
+    },
+    "fechaIncorrecta": {
+      "titulo": "Planear fiesta de cumpleaños para un unicornio",
+      "descripcion": "El unicornio insiste en un arco iris real como decoración.",
+      "fecha": "25-12-2024", 
+      "ubicacion": "Bosque Encantado",
+      "responsable": "Mago de los Cumpleaños"
+    },
+    "textoExtremadamenteLargo": {
+      "titulo": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "descripcion": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+      "fecha": "2024-12-31",
+      "ubicacion": "Calle de los Textos Largos #123",
+      "responsable": "Lorem Ipsum Generator"
+    },
+    "camposNulos": {
+      "titulo": null,
+      "descripcion": null,
+      "fecha": null,
+      "ubicacion": null,
+      "responsable": null
+    },
+    "fechaPasada": {
+      "titulo": "Investigar por qué los dinosaurios se extinguieron",
+      "descripcion": "Se cree que fue culpa de un meteorito. Confirmar teoría.",
+      "fecha": "2000-01-01",
+      "ubicacion": "Museo de Historia Natural",
+      "responsable": "Paleontólogo López"
+    },
+    "mixto": {
+      "titulo": "Tarea 123 !@# ABC",
+      "descripcion": "Descripción con números 456 y caracteres especiales $#%",
+      "fecha": "2024-12-25",
+      "ubicacion": "123 Calle Especial !@#",
+      "responsable": "Persona Mixta 789"
+    },
+    "tituloDescripcionIguales": {
+      "titulo": "Resolver la crisis de las galletas",
+      "descripcion": "Resolver la crisis de las galletas",
+      "fecha": "2024-12-30",
+      "ubicacion": "Fábrica de Galletas",
+      "responsable": "Chef Repostero"
+    },
+    "fechaFuturaLejana": {
+      "titulo": "Celebrar el Año Nuevo en Marte",
+      "descripcion": "Organizar transporte y comida para toda la colonia marciana.",
+      "fecha": "3024-01-01",
+      "ubicacion": "Base Alpha, Marte",
+      "responsable": "Administrador Espacial"
+    },
+    "emoji": {
+      "titulo": "🐱 Investigar la invasión gatuna 🐾",
+      "descripcion": "Los gatos han tomado control de todas las almohadas. 😺",
+      "fecha": "2024-12-31",
+      "ubicacion": "Casa del Gato Rey 🏠",
+      "responsable": "Humano Servil 🙇‍♂️"
+    }
+  },
+  "otrasTareas" : [
+    {
+      "titulo": "Resolver el conflicto entre el ventilador y el aire acondicionado",
+      "descripcion": "Ambos se niegan a trabajar juntos y han dividido a la oficina en bandos.",
+      "fecha": "2024-12-30",
+      "ubicacion": "Oficina Climática #3",
+      "responsable": "Mediador Profesional en Electrodomésticos"
+    },
+    {
+      "titulo": "Reclutar más aliens para el equipo de fútbol",
+      "descripcion": "El actual equipo galáctico necesita más diversidad en sus especies.",
+      "fecha": "2024-12-31",
+      "ubicacion": "Estadio Intergaláctico",
+      "responsable": "Coach de la Vía Láctea"
+    },
+    {
+      "titulo": "Cerrar el portal al inframundo en el baño",
+      "descripcion": "El portal ha comenzado a atraer criaturas indeseadas durante la ducha.",
+      "fecha": "2025-01-01",
+      "ubicacion": "Baño #2, Casa de los Sustos",
+      "responsable": "Cazador de Sobrenaturalidades"
+    },
+    {
+      "titulo": "Recoger las hojas que han decidido emigrar",
+      "descripcion": "Las hojas del jardín han comenzado a formar caravanas hacia el norte.",
+      "fecha": "2025-01-02",
+      "ubicacion": "Jardín Fronterizo",
+      "responsable": "Jardinero Diplomático"
+    }
+  ]
+
+}   
+
+
+
+
